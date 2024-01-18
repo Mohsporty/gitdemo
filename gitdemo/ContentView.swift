@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("lets do it ")
             Text( "letrs hac git hub ")
+            var moh = "test"
+            Text("mohammad connect to git hub :)")
         }
         .padding()
     }

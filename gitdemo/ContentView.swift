@@ -20,7 +20,7 @@ struct ContentView: View {
                 .bold()
                 .navigationTitle("im here")
             
-            // we need chcange back gound
+            // we need chcange back gound some change
         }
         .padding()
                 .background(Color.red)

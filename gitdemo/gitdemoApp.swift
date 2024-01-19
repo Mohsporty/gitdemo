@@ -15,3 +15,5 @@ struct gitdemoApp: App {
         }
     }
 }
+
+var name = "Mohammad"

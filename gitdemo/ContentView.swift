@@ -21,6 +21,7 @@ struct ContentView: View {
                 .navigationTitle("im here")
             
             // we need chcange back gound some change
+            // mohammad new brunch for me to test 
         }
         .padding()
                 .background(Color.red)

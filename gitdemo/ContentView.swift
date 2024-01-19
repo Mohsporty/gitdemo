@@ -19,7 +19,6 @@ struct ContentView: View {
             Text( "letrs hac git hub ")
                 .bold()
                 .navigationTitle("im here")
-          
             
             // we need chcange back gound
         }
